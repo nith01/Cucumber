@@ -1,6 +1,6 @@
-package com.package1;
+package com.package1.array;
 
-public class prog1 {
+public class program1 {
 
     //Write a Java Program to reverse a string without using String inbuilt function.
 // "hello" to "olleh"
